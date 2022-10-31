@@ -1,0 +1,26 @@
+{
+    "m_Version": 9,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SNAFU",
+    "MinRequiredHumanity": -2147483648,
+    "MaxRequiredHumanity": 2147483647,
+    "TraderIcon": "Scrap Metal",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "Categories": [
+        "Snafu_Ammo",
+        "Snafu_Bipods",
+        "Snafu_Extras",
+        "Snafu_Grips",
+        "Snafu_Handguards",
+        "Snafu_Mags",
+        "Snafu_Scopes",
+        "Snafu_Stocks",
+        "Snafu_Suppressors",
+        "Snafu_Weapons"
+    ],
+    "Items": {
+        "universallight": 1,
+        "tlrlight": 1
+    }
+}
